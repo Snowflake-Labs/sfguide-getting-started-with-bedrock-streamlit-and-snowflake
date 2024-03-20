@@ -1,4 +1,4 @@
-# sfguide-getting-started-with-bedrock-streamlit-and-snowflake
+# Getting Started with Bedrock, Streamlit and Snowflake
 
 ## Overview
 In this quickstart we will build a Streamlit application that leverages Snowpark External Access in Snowflake with Amazon Bedrock that will generate a personalized marketing message to customers to cross-sell products.
